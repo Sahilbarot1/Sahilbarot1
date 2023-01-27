@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>sahil brahmbhatt</title>
+	</head>
+	<body>
+		<div>
+			<h1>This is heading 1</h1><br>
+			<h2>This is heading 2</h2><br>
+			<h3>This is heading 3</h3><br>
+			<h4>This is heading 4</h4><br>
+			<h5>This is heading 5</h5><br>
+			<h6>This is heading 6</h6><br>
+		</div>
+		<div>
+			<p><i>This line is written in italic.</i></p>
+			<p><em>This line is written</em></p>
+			<p><strong>This line has strong importance and  also written in bold.</strong></p>
+			<p><cite>This line  written </cite></p>
+			<p><u>This line has underlined.</u></p>
+			<p>My favorite color  is <del>red</del> <ins>blue</ins>.</p>
+			<p><s>This line has strick through it.</s></p>
+		</div>
+		<div>
+			<p>The &lt;div&gt; tag is block line element.
+		</div>
+		<span><p>The &lt;span&gt; tag is inline element. it takes only required space.</p></span>
+		<div>
+			<blockquote  cite="https://www.wikipedia.org/html-knowledge.html">
+			<p>This paragraph is quoted from another source.</p>
+			</blockquote>
+			<p>H<sub>2</sub>O</p>
+			<p>X<sup>2</sup>+Y<sup>2</sup>+Z</p>
+			<p><abbr title="ganesh">This line is written using &lt;abbr&gt;  tag.</abbr></p>
+			<p><accr>This line is written using &lt;accr&gt;  tag.</accr></p>
+			<p> This line has some &nbsp;&nbsp; space.</p>
+			<pre><p>This line    is written using &lt;pre&gt;    tag.</pre></p>
+			<p><b>This line is written in bold.</b></p>
+		</div>
+	</body>
+
+</html>
